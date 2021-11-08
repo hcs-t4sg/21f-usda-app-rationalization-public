@@ -1,8 +1,9 @@
 ## Setup and running the code
 The acronym conversion algorithm can be found in `acronym.py`.
 
-Install Python 3.9
-Use `pip` (built-in Python package management system) or other libraries to install the following libraries: 
+Install Python 3.9 (or latest version).
+
+Use `pip` (built-in Python package management system) or another library to install the following libraries: 
 - Pandas: run `pip install pandas`, see https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 - openpyxl: run `pip install openpyxl`, see https://openpyxl.readthedocs.io/en/stable/#installation
 
